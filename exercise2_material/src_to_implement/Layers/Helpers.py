@@ -229,4 +229,3 @@ class DigitData:
     def get_test_set(self):
         return self._input_tensor_test, self._label_tensor_test
 
-

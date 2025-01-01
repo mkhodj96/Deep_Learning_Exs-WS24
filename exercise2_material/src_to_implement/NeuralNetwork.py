@@ -9,7 +9,7 @@ class NeuralNetwork(object):
         self.optimizer = optimizer # Optimizer for trainable layers
         self.loss = [] # Track loss during training
         self.layers = [] # List of layers in the network
-        self.data_layer = None  # Source of input and label tensors
+        self.data_layer = None  # Source of input and label tenso,rs
         self.loss_layer = Loss.CrossEntropyLoss()  # Loss function for the network
         self.input_tensor = None
         self.label_tensor = None
@@ -20,7 +20,7 @@ class NeuralNetwork(object):
 
     def forward(self):
         """
-        Perform forward pass through the network to compute loss.
+        Perform forward pass through the network to compubujl-te loss.
 
         Returns:
         - loss: Computed loss for the current input and labels.
