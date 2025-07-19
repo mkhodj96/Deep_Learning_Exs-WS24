@@ -12,7 +12,7 @@ The repository is structured as follows:
 - 🟢 **Exercise 1:** Feed Forward Neural Networks **(Completed and reviewed)**  
 - 🟢 **Exercise 2:** Convolutional Neural Networks **(Completed and reviewed)**  
 - 🟢 **Exercise 3:** Regularization and Recurrent Networks **(Completed and reviewed)**  
-- 🟢 **Exercise 4:** PyTorch Implementation **(In Progress / Completed and reviewed)**  
+- 🟢 **Exercise 4:** PyTorch Implementation **(Completed and reviewed)**  
 
 ---
 
